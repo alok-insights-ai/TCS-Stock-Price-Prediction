@@ -51,7 +51,7 @@ Add live stock data fetching.
 # Sample Visualizations
 
 ![image](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/Screenshot%202025-11-02%20230417.png)
-![image](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/Screenshot%202025-11-02%20230417.png)
+![image](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/Screenshot%202025-11-02%20230446.png)
 ![image](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/Screenshot%202025-11-02%20230521.png)
 
 [Data Set]()
