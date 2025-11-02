@@ -56,7 +56,7 @@ Add live stock data fetching.
 
 ##  Project Structure
 - [TCS Data](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/TCS_stock_history.csv) — Dataset used for training/testing.
-- [jupyter File](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/TCS%20Stock%20Data.ipynb)
--  Jupyter Notebook containing the analytics part some machine learing are now eorking properly on jupyter notebook so i made it on google colab below is the notebook
+- [jupyter File](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/TCS%20Stock%20Data.ipynb) Jupyter Notebook containing the analytics part.
+- some machine learing are now working properly on jupyter notebook so i made it on google colab below is the notebook
 - [Google_Colab Notebook](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/blob/main/tcs_slock_data.ipynb)
 
